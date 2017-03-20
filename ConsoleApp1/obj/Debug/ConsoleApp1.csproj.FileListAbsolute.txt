@@ -1,0 +1,6 @@
+C:\Users\Moze\tiy\week-2\day-1\Varibles-1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Moze\tiy\week-2\day-1\Varibles-1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Moze\tiy\week-2\day-1\Varibles-1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Moze\tiy\week-2\day-1\Varibles-1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Moze\tiy\week-2\day-1\Varibles-1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Moze\tiy\week-2\day-1\Varibles-1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
